@@ -56,10 +56,15 @@ li{
     
 }
 
+.fully{
+    color: #05DBF2;
+
+}
+
 .blanco{
     
     background-color: white;
-    background-image: url(../imagenes/separador2.jpg);
+   /* background-image: url(../imagenes/separador2.jpg);*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
