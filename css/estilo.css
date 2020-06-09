@@ -6,7 +6,7 @@ header{
 }
 footer{
     color:#F8F9Fb ;
-    background: #868687;
+    background: #232625;
     padding-left: 100px;
 }
 a:hover{
@@ -50,7 +50,7 @@ li{
 }
 .naranja2{
 
-    background-color: #E6B707;
+    background-color:#848484;
    
  
     
@@ -73,7 +73,7 @@ li{
 .blanco2{
     
     background-color: white;
-    background-image: url(../imagenes/separador4.jpg);
+ 
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
@@ -82,31 +82,30 @@ li{
 .some{
     
     background-color: #d0d0d0;
-    background-image: url(../imagenes/separador3.jpg);
+
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
     
 }
 
-.figure{
-    padding-left: 10px;
+figure {
+    margin: 0 0 0rem;
 }
-
 .figure-caption
 { 
     color: #d0d0d0;
     background-color: black;
 
 }
-.figure-caption2
+/*.figure-caption2
 { 
     
         color: #000000;
         background-color: #FFC107;
     
 
-}
+}*/
 .figure-img {
     margin-bottom: 0; 
     line-height: 1;
