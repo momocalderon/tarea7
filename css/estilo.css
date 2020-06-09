@@ -1,7 +1,7 @@
 
 
 header{
-    background-color: #F8F9Fb;
+    background-color: #232625;
     font-weight: bold;
 }
 footer{
@@ -14,17 +14,19 @@ a:hover{
 }
 a.nav-link{
     transition: all ease .5s;
+    color: white!important;
 }
 a.nav-link:hover{
-    background-color: #E6B707;
-   color: white !important;
+    background-color:#05DBF2;
+   color: white!important;
    transition: 1s;
 }
 a.nav-link.active{
-    background-color: #E6B707;
-   color: white !important;
+    background-color: #232625;
+   color: #05DBF2 !important;
    
 }
+
 
 ul.b{
     list-style-type: square;
@@ -32,7 +34,7 @@ ul.b{
 
 }
 li{
-    color: #000000;
+    color: #F8F9Fb;
 }
 
 
@@ -108,7 +110,7 @@ li{
 @media (min-width:768px) {
     .navbar-expand-md .navbar-nav .nav-link{
         padding: 30px 15px;
-        border: solid 1px #d0d0d0;
+        border: solid 0px #d0d0d0;
     }
 
 
