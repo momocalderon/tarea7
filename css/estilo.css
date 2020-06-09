@@ -1,0 +1,116 @@
+
+
+header{
+    background-color: #F8F9Fb;
+    font-weight: bold;
+}
+footer{
+    color:#F8F9Fb ;
+    background: #868687;
+    padding-left: 100px;
+}
+a:hover{
+    text-decoration: none;
+}
+a.nav-link{
+    transition: all ease .5s;
+}
+a.nav-link:hover{
+    background-color: #E6B707;
+   color: white !important;
+   transition: 1s;
+}
+a.nav-link.active{
+    background-color: #E6B707;
+   color: white !important;
+   
+}
+
+ul.b{
+    list-style-type: square;
+    color: #E6B707;
+
+}
+li{
+    color: #000000;
+}
+
+
+
+.naranja{
+    color: white;
+    background-color: #E6B707;
+    background-image: url(../imagenes/separador1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    
+}
+.naranja2{
+
+    background-color: #E6B707;
+   
+ 
+    
+}
+
+.blanco{
+    
+    background-color: white;
+    background-image: url(../imagenes/separador2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    
+}
+.blanco2{
+    
+    background-color: white;
+    background-image: url(../imagenes/separador4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    
+}
+.some{
+    
+    background-color: #d0d0d0;
+    background-image: url(../imagenes/separador3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    
+}
+
+.figure{
+    padding-left: 10px;
+}
+
+.figure-caption
+{ 
+    color: #d0d0d0;
+    background-color: black;
+
+}
+.figure-caption2
+{ 
+    
+        color: #000000;
+        background-color: #FFC107;
+    
+
+}
+.figure-img {
+    margin-bottom: 0; 
+    line-height: 1;
+}
+
+@media (min-width:768px) {
+    .navbar-expand-md .navbar-nav .nav-link{
+        padding: 30px 15px;
+        border: solid 1px #d0d0d0;
+    }
+
+
+
+}
