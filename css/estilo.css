@@ -1,3 +1,11 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    padding: 0%;
+    margin: 0px;
+}
+p{
+   padding: 10px;
+}
 
 
 header{
@@ -119,11 +127,31 @@ figure {
 
 
 
-
 @media (min-width:768px) {
     .navbar-expand-md .navbar-nav .nav-link{
         padding: 30px 15px;
-        border: solid 0px #d0d0d0;
+       
+    }
+
+
+
+}
+
+
+@media (min-width:768px) {
+    h4{
+        font-size: 1.3rem;
+    }
+
+
+
+}
+
+
+
+@media (max-width:450px) {
+    .logo{
+        max-width: 100px;
     }
 
 
