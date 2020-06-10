@@ -8,6 +8,7 @@ footer{
     color:#F8F9Fb ;
     background: #232625;
     padding-left: 100px;
+
 }
 a:hover{
     text-decoration: none;
@@ -26,10 +27,15 @@ a.nav-link.active{
    color: #05DBF2 !important;
    
 }
+body{
+    font-weight: 600;
+}
 
-
+.table{
+    background-color: transparent;
+}
 ul.b{
-    list-style-type: square;
+    list-style-type: none;
     color: #E6B707;
 
 }
@@ -110,6 +116,9 @@ figure {
     margin-bottom: 0; 
     line-height: 1;
 }
+
+
+
 
 @media (min-width:768px) {
     .navbar-expand-md .navbar-nav .nav-link{
