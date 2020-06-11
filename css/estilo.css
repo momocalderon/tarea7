@@ -6,7 +6,7 @@
 }
 p{
    padding: 10px;
-   font-size: .8rem;
+   font-size: .7rem;
 }
 
 
@@ -58,6 +58,7 @@ li{
 .lb{
     padding: 0;
     margin: 0em;
+    width: 100vw;
 }
 
 .naranja{
