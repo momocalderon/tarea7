@@ -22,6 +22,7 @@ footer{
     
 
 }
+
 a:hover{
     text-decoration: none;
 }
@@ -161,6 +162,16 @@ figure {
 @media (max-width:450px) {
     .logo{
         max-width: 100px;
+    }
+
+
+
+}
+
+
+@media (max-width:450px) {
+    .responsive{
+        max-width: 250px;
     }
 
 
